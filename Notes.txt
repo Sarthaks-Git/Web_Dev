@@ -1,0 +1,11 @@
+Two types of components in React 
+
+1 Satefull = able to manage a state or a data in all over the components
+2. Stateless = you can pass a data from one to another in form of props but cannot manage in all over the components 
+
+
+For funciton based components we use Hooks
+
+synatx for Hooks
+import {useState} from "React"
+const [state,setState]=useState()
